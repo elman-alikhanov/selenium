@@ -5,7 +5,7 @@ Each folder corresponds to a specific lesson and includes a working example of t
 
 ---
 
-## 📚 Lessons Included
+## Lessons Included
 
 1. **Introduction to Selenium** – What it is and how it works  
 2. **Initializing Chrome and Firefox Drivers**  
@@ -32,9 +32,7 @@ Each folder corresponds to a specific lesson and includes a working example of t
 
 ---
 
-## 🛠 Requirements
+## Technologies Used
 
-- Python 3.13.5
-- Google Chrome / Firefox
-
----
+- **Language:** Python 3.13.5
+- **Framework:** [Selenium](https://www.selenium.dev/)
